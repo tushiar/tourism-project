@@ -1,0 +1,9 @@
+.center-footer{
+    text-align: center;
+    background: #c3c3ff;
+    padding: 10px;
+    overflow: hidden;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}

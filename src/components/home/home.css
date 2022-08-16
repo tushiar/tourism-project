@@ -1,0 +1,9 @@
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+.home-container{
+    margin: 20px 0 20px 0 ;
+}

@@ -1,0 +1,10 @@
+.login-bg {
+    color: #fff;
+    background-image:url(https://i0.wp.com/bersamawisata.com/wp-content/uploads/2021/06/ehmir-bautista-364387-unsplash.jpg);
+    height:100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+
